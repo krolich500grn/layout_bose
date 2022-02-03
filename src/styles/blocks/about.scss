@@ -28,10 +28,6 @@
     &:not(:last-child) {
       margin: 0 0 16px;
     }
-
-    // &:last-child {
-    //   margin: 0 0 40px;  не працює, того внизу margin-top
-    // }
   }
 
   &__text {

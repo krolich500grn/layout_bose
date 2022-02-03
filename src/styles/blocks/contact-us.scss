@@ -16,8 +16,7 @@
     font-size: 16px;
     line-height: 140%;
 
-    color: #3E3E3E;
-    text-decoration: none;
+    @extend %default-link-style;
   }
 
   &__field {
