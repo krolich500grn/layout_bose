@@ -1,9 +1,0 @@
-.recommended {
-  &__item:not(:last-child) {
-    margin-bottom: 40px;
-
-    @include onTablet {
-      margin-bottom: 0;
-    }
-  }
-}
